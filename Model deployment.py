@@ -52,5 +52,5 @@ if upload:
     results = model([img])  # Run inference on the uploaded image
     display_results(results)  # Display the results
 
-# ... Rest of the Streamlit app code ...
+
 
